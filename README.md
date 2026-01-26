@@ -24,5 +24,3 @@ This Power BI project analyzes both Sales and Supply performance using the Blink
 * Created Shelf_Life_Category using conditional logic on shelf_life_days column
 * Extracted Year and Month from date fields to enable drill-down analysis
 * Created 4 custom DAX measures to represent key KPIs displayed on the dashboard
-
-Built 4 DAX measures to represent key KPIs
