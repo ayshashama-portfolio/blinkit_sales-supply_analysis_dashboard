@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard that connects sales performance with supply-side risk for a quick-commerce grocery business, built on 13,000 product listings across 8 categories, 28 brands and 10 Indian cities (Oct 2023 – Oct 2025).
 
-🌐 **Part of my data analytics portfolio:** [ayshashamamusamil.netlify.app](https://ayshashamamusamil.netlify.app/)
-
 ## Tech Skills
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
