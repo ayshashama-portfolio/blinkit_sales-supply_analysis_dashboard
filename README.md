@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard that connects sales performance with supply-side risk for a quick-commerce grocery business, built on 13,000 product listings across 8 categories, 28 brands and 10 Indian cities (Oct 2023 – Oct 2025).
 
+🌐 **Part of my data analytics portfolio:** [ayshashamamusamil.netlify.app](https://ayshashamamusamil.netlify.app/)
+
 ## Tech Skills
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -109,4 +111,11 @@ blinkit_sales-supply_analysis_dashboard/
 
 ## Author
 
-**Aysha Shama** · [GitHub](https://github.com/ayshashama-portfolio) · ayshashamamuzamil@gmail.com
+**Aysha Shama** · Data Analyst
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayshashamamusamil.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-shama-b5029a229/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayshashama003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshashama-portfolio)
+
+📧 ayshashama003@gmail.com · 🌐 More projects on my [portfolio website](https://ayshashamamusamil.netlify.app/)
